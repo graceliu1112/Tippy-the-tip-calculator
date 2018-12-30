@@ -28,13 +28,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://i.imgur.com/1gesTVr.gif' title='Tippy' width='100' alt='Tip Calculator' />
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/bkMws4u"><a href="//imgur.com/bkMws4u">Tippy</a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
-
-In the case the .gif file does not show, copy and paste the following link:
-
-https://i.imgur.com/1gesTVr.gif
+<img src='https://imgur.com/a/bkMws4u' title='Tippy' width='100' alt='Tip Calculator' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
