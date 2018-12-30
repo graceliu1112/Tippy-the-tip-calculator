@@ -30,6 +30,8 @@ Here's a walkthrough of implemented user stories:
 
 <img src='https://i.imgur.com/1gesTVr.gif' title='Tippy' width='100' alt='Tip Calculator' />
 
+<img src="https://i.imgur.com/1gesTVr.gif" title="Tippy" width="" alt="Tip Calculator" />
+
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
@@ -37,6 +39,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 Describe any challenges encountered while building the app.
 - Had to deal with a lot of bugs when using code
 - The emulator was really slow when running the code
+- Have problem uploading the .gif version of the application. Here is the .gif URL to be able to see the app: https://i.imgur.com/1gesTVr.gif
 
 ## License
 
